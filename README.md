@@ -3,3 +3,4 @@ This repository contains R code for subclustering medium spiny neurons (MSNs) fr
 # Citations
 
 # Raw Data
+snRNA-seq count matrices for our discovery dataset are available at the NCBI Gene Expression Omnibus (GEO) under accession number GSE263307. The raw count matrices used in the replication analysis are available at GEO accession numbers GSE137763 and GSE222418. Cleaned data from mouse and human NAc can be obtained at GEO accession number GSE118020 and https://github.com/LieberInstitute/10xPilot_snRNAseq-human, respectively. 
